@@ -10,6 +10,7 @@ const Home = () => {
       <Link href='/about'>
         <a>about</a>
       </Link>
+      <div>master</div>
       <style jsx>{`
         h1,
         a {
