@@ -6,6 +6,7 @@ const About = () => (
     <Link href='/'>
       <a>go home</a>
     </Link>
+    <div>测试rebase</div>
   </div>
 );
 
